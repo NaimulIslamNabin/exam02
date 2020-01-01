@@ -1,0 +1,118 @@
+
+
+
+body{
+
+font-family: 'Roboto Slab', serif;
+
+}
+
+.member-section{
+	background: url(images/header-bg.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top center;
+	height: 600px;
+	padding: 70px 0;
+	text-align: center;
+}
+.member-section h1{
+	margin-top: 150px;
+}
+.member-section p{
+	font-size: 30px;
+}
+.btn-custom{
+	background: #99c50a;
+	padding: 15px 50px;
+	text-align: center;
+	border:0;
+	border-radius: 5px;
+	color: white;
+	margin-top: 20px;
+}
+.work-section{
+	padding: 70px 0;
+}
+.work-section img{
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+.work-section h2{
+	margin-top: 30px;
+	margin-bottom: 40px;
+	text-transform: uppercase;
+}
+.work-section p{
+	line-height: 30px;
+	margin-top: 30px;
+}
+.product-section{
+	padding: 50px 0;
+	background: linear-gradient(to right, #e2f8ff 50%, #f5f9eb 50%)
+	
+}
+.product-section .one{
+	background:;
+	padding: 20px; 
+}
+.one img,.two img{
+	margin-left: 80px;
+	margin-top: 40px;
+
+}
+.product-section .two{
+	background: ;
+	padding: 20px;
+}
+.product-section .btn-cstm1{
+	background: #26a6d1;
+	padding: 10px 25px;
+	text-decoration: none;
+	text-align: center;
+	color: white;
+	border:none;
+	border-radius: 6px;
+}
+.product-section .btn-cstm2{
+	background: #add136;
+	padding: 10px 25px;
+	text-decoration: none;
+	text-align: center;
+	color: white;
+	border:none;
+	border-radius: 6px;
+}
+
+.port-section{
+	padding: 70px 0;
+}
+.port-section .naimul{
+	position: relative;
+}
+
+.port-section .nabin {
+	position: absolute;
+	top: 210px;
+	right: 14px;
+}
+.port-section .niamul{
+	margin-top: 30px;
+	
+}
+
+
+.fa.fa-caret-right{
+	color:green;
+
+}
+.company-section{
+	padding: 50px 0;
+}
+
+
+
+
+
+/*Responsive media query*/
+
